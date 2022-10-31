@@ -156,7 +156,7 @@ No known bugs at this time.
 ## Authors 
 Vera Adiele - [Github](https://github.com/Veralee225) / [Twitter](https://twitter.com/Veraleeeee)
 
-Vera Adiele - [Github](https://github.com/Ginakalu) / [Twitter](https://twitter.com/)
+Georgina Kalu - [Github](https://github.com/Ginakalu) / [Twitter](https://twitter.com/)
 
 Second part of Airbnb: Vera Adiele & Georgina Kalu
 ## License
